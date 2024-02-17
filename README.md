@@ -1,2 +1,4 @@
 # practice
-practice git hub 
+
+practice git and git hub
+Author - Omkar Patil
